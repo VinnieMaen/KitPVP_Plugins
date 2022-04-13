@@ -1,0 +1,6 @@
+name: AntiXray
+version: ${project.version}
+main: vinniemaen.antixray.antixray.AntiXray
+api-version: 1.13
+authors: [VinnieMaen]
+description: Detects Xray Hacks

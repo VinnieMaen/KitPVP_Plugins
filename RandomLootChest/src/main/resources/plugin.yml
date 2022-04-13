@@ -1,0 +1,12 @@
+name: BMCLootDrop
+version: ${project.version}
+main: vinniemaen.bucketrandomdrop.bmclootdrop.BMCLootDrop
+api-version: 1.13
+authors: [VinnieMaen]
+description: Lootdrops
+commands:
+  sbenable:
+    description: Enable SupplyBuckets
+  sbdisable:
+    description: Disable SupplyBuckets
+  cheque:

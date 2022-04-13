@@ -1,0 +1,12 @@
+name: StealthCraftReport
+version: 1.0
+main: vinniemaen.stealthreport.stealthcraftreport.StealthCraftReport
+api-version: 1.13
+authors: [VinnieMaen]
+description: Custom made report system for StealthCraft.
+commands:
+  report:
+    description: Report a player.
+permissions:
+  report.staff:
+    description: See the report.

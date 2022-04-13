@@ -1,0 +1,10 @@
+name: BucketMCVoteListener
+version: 1.0
+main: me.votelistener.bmc.bucketmcvotelistener.BucketMCVoteListener
+api-version: 1.13
+authors: [VinnieMaen]
+description: VoteLIstener
+depends: [Votifier]
+commands:
+  vote:
+    description: Vote for the server!
