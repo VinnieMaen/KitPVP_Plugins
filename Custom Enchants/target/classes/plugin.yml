@@ -1,0 +1,19 @@
+name: CustomEnchantsBMC
+version: 1.0
+main: vinniemaen.customenchantsbmc.customenchantsbmc.CustomEnchantsBMC
+api-version: 1.13
+authors: [VinnieMaen]
+description: Custom enchants BMC.
+depends: [Vault]
+commands:
+  bmc:
+    description: Use the BucketMC CustomEnchants plugin!
+  enchantshop:
+    description: Opens the custom enchants shop!
+  eshop:
+    description: Opens the custom enchants shop!
+  enchants:
+    description: Shows you all the available custom enchants!
+  enchantments:
+    description: Shows you all the available custom enchants!
+  enchgive:
