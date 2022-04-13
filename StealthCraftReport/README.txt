@@ -1,0 +1,1 @@
+A GUI report plugin.
