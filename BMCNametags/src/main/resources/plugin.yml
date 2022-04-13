@@ -1,0 +1,8 @@
+name: BMCNametags
+version: ${project.version}
+main: vinniemaen.nametags.bmc.bmcnametags.BMCNametags
+api-version: 1.13
+authors: [VinnieMaen]
+description: Nametags
+commands:
+  nametag:

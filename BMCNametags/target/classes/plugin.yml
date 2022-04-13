@@ -1,0 +1,8 @@
+name: BMCNametags
+version: 1.0
+main: vinniemaen.nametags.bmc.bmcnametags.BMCNametags
+api-version: 1.13
+authors: [VinnieMaen]
+description: Nametags
+commands:
+  nametag:

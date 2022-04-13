@@ -1,0 +1,6 @@
+name: Vanish+
+version: ${project.version}
+main: vinniemaen.vanish.vanish.Vanish
+api-version: 1.13
+authors: [VinnieMaen]
+description: Vanish plugin.
